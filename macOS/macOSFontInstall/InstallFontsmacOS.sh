@@ -1,15 +1,3 @@
-<#
-.SYNOPSIS
-This script installs the fonts on MacOS devices
-
-.DESCRIPTION 
-The Shell script will download the font files from publicly accessible location and install them on MacOS devices.
-
-.NOTES
-Website: https://www.prajwaldesai.com
-Post Link: https://www.prajwaldesai.com/install-fonts-on-macos-using-intune/
-#>
-
 #!/bin/bash
 
 #Specify the source directory where your font files are located
